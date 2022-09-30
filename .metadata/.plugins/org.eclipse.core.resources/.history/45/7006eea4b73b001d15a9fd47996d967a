@@ -1,0 +1,31 @@
+package ödev1;
+
+public class MiniProjeAsalSayı {
+public static void main(String[] args) {
+	int number =31;
+	
+	int remainder= 0;
+	
+	System.out.println(remainder);
+	
+	if(number%3==remainder) {
+		System.out.println(number + " sayısınız asal değil");
+		
+	}
+	else if(number%3==remainder) {
+		System.out.println(number + " sayısınız asal değil");
+	}
+	
+	else	if(number%5==remainder) {
+			System.out.println(number + " sayısınız asal değil");
+			
+		}
+	else	if(number%7==remainder) {
+		System.out.println(number + " sayısınız asal değil");
+	}
+		else{
+			System.out.println(number + " sayınız asal");
+		}
+	}
+}
+

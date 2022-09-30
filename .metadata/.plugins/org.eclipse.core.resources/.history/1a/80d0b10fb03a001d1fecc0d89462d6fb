@@ -1,0 +1,10 @@
+package ödev1;
+
+public class main {
+//yorum satırı
+
+	public main() {
+		// TODO Auto-generated constructor stub
+	}
+	
+}

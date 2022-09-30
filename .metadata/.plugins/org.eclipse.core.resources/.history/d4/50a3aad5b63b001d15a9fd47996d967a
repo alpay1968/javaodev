@@ -1,0 +1,18 @@
+package ödev1;
+
+public class MiniProjeAsalSayı {
+public static void main(String[] args) {
+	int number =25;
+	
+	int remainder= number% 2;
+	
+	System.out.println(remainder);
+	
+	if(remainder==0) {
+		System.out.println(number + " sayısınız asal değil");
+		
+	}
+	
+	
+}
+}

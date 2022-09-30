@@ -1,0 +1,22 @@
+package ödev1;
+
+public class Variables {
+
+	public static void main(String[] args) {
+		// case sens
+		/*
+		 * System.out.println("Öğrenci sayım: 9");
+		 * System.out.println("Öğrenci sayım: 9");
+		 * System.out.println("Öğrenci sayım: 9");
+		 * System.out.println("Öğrenci sayım: 9");
+		 */
+		// reuseability
+		int sayım = 10;
+		System.out.println("Öğremci sayım: " + sayım);
+		System.out.println("Öğremci sayım: " + sayım);
+		System.out.println("Öğremci sayım: " + sayım);
+		System.out.println("Öğremci sayım: " + sayım);
+
+	}
+
+}

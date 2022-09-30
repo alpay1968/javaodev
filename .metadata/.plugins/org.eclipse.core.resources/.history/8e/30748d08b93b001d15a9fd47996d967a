@@ -1,0 +1,16 @@
+package ödev1;
+
+public class SesliHarfler {
+public static void main(String[] args) {
+	
+	char harf='A';
+	
+	char[] kalın=new char[] {'A','I','O','U'};
+	char[] ince=new char[] {'E','İ','Ö','Ü'};
+	for (char letter : kalın) {
+		System.out.println(harf+ " kalın bir sesli harftir");
+		return;
+	}
+	
+}
+}
